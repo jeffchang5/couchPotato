@@ -1,7 +1,6 @@
 {
-  "name": "couchpotato",
+  "name": "angular",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.13.3"
@@ -11,5 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffchang5/couchPotato.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffchang5/couchPotato/issues"
+  },
+  "homepage": "https://github.com/jeffchang5/couchPotato#readme",
+  "description": ""
 }
